@@ -1,5 +1,4 @@
-# Project Title:
-Music Synthesizer with Chord Player, Harmonics, Dynamics, and PMOD Integration
+# Music Synthesizer with Chord Player, Harmonics, Dynamics, and PMOD Integration
 
 ## Team Members:
 - Vincent Thai
@@ -32,13 +31,13 @@ For this project, we designed and implemented a digital music synthesizer capabl
 - Division approximation using a custom ROM and right bit-shifting to efficiently handle scaling factors without native division operations in Verilog.
 
 ## Block Diagrams:
-![Figure 1](figure1.png)
+![Figure 1](photos/figure1.png)
 
-![Figure 2](figure2.png)
+![Figure 2](photos/figure2.png)
 
-![Figure 3](figure3.png)
+![Figure 3](photos/figure3.png)
 
-![Figure 4](figure4.png)
+![Figure 4](photos/figure4.png)
 
 
 ## Testing:
